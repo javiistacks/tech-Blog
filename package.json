@@ -16,17 +16,22 @@
     "nodemon": "^2.0.7",
     "sequelize": "^6.6.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@creativebulma/bulma-divider": "^1.1.0",
+    "jest": "^26.0.1"
+},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "jest",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/javiistacks/tech-Blog.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Javiann Marrero",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/javiistacks/tech-Blog/issues"
