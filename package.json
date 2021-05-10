@@ -3,19 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-"scripts": {
+  "scripts": {
     "test": "jest",
     "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/javiistacks/tech-Blog.git"
   },
-
-
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bulma": "^0.9.2",
@@ -30,10 +27,9 @@
     "sequelize": "^6.6.2"
   },
   "devDependencies": {
+    "@creativebulma/bulma-divider": "^1.1.0",
     "jest": "^26.0.1"
   },
-  
- 
   "keywords": [],
   "author": "Javiann Marrero",
   "license": "ISC",
