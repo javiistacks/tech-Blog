@@ -8,6 +8,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Demo](#demo)
+* [Sample](#samples)
 * [Installations](#installations)
 * [Usage](#usage)
 * [Deployment](#deployment)
@@ -23,6 +24,18 @@ A mysql database and application backend for an e-commerce site.
 
 ## Demo
 Watch a demo of the application on [Youtube. Model-View-Controller (MVC): Tech Blog](https://youtu.be/RQDhyoZjASY)
+
+
+## Samples
+
+| ***Screenshot***                   | ***Screenshot***                      |
+| :--------------------------------: | :-----------------------------------: |
+| <img src="./assets/blog.png">      | <img src="./assets/login.png">        |
+
+| ***Screenshot***                   | ***Screenshot***                      |
+| :--------------------------------: | :-----------------------------------: |
+| <img src="./assets/signup.png">    | <img src="./assets/createpost.png">   |
+
 
 
 ## Installations
@@ -102,7 +115,7 @@ Check out my tech blog at the link below.
 * [Javiann Marrero](https://github.com/javiistacks)
 
 ## Special Thanks
-* [Charles Fisher](https://github.com/cdfishe1)
+* [Charles Fisher](https://github.com/cdfishe1) was able to help me with an error I kept getting in my models folder in my index.js file i had Uppercase letter for my values in my keys for User, Post, and Comment. I made the values lower case and the error was gone which was a huge success to getting my project to deploy on heroku.
 
 ## Repository
 ### Github Repository
