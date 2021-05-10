@@ -3,7 +3,7 @@ const { Post } = require('../models');
 const postData = [
     {
         title: "Would you invest on DOGECOIN?",
-        post_content: "I know you all saw Elon Musk on SNL as he proclaimed himself the DogeFather. Is this enough for you to invest lest talk about it."
+        post_content: "I know you all saw Elon Musk on SNL as he proclaimed himself the DogeFather. Is this enough for you to invest lest talk about it.",
         user_id: 3
     },
     {
