@@ -19,7 +19,7 @@
 
 
 ## Introduction
-A mysql database and application backend for an e-commerce site. 
+A full stack web application blog where people can connect and talk about all things technical. You will be able to create user, delete post,  and comment on post. 
 
 
 ## Demo
