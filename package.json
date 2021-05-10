@@ -30,7 +30,6 @@
     "sequelize": "^6.6.2"
   },
   "devDependencies": {
-    "@creativebulma/bulma-divider": "^1.1.0",
     "jest": "^26.0.1"
   },
   
