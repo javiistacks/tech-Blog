@@ -33,7 +33,7 @@ Type the following npm install commands:
 
  On the command line while in the tech-Blog folder.
 ```
-<details><summary> NPM PACKAGES</summary>
+<details><summary> CLICK HERE TO SEE ALL NPM PACKAGES</summary>
 
 <blockquote>
 
@@ -91,6 +91,8 @@ npm start
 ## Created by
 * [Javiann Marrero](https://github.com/javiistacks)
 
+## Special Thanks
+* [Charles Fisher](https://github.com/cdfishe1)
 
 ## Repository
 ### Github Repository
