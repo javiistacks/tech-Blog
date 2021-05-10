@@ -22,7 +22,7 @@ A mysql database and application backend for an e-commerce site.
 
 
 ## Demo
-Watch a demo of the application on [Youtube. Object-Relational Mapping (ORM).](https://www.youtube.com/watch?v=g1CUTYyp-LI)
+Watch a demo of the application on [Youtube. Model-View-Controller (MVC): Tech Blog](https://youtu.be/RQDhyoZjASY)
 
 
 ## Installations
