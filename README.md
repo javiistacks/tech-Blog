@@ -10,6 +10,7 @@
 * [Demo](#demo)
 * [Installations](#installations)
 * [Usage](#usage)
+* [Deployment](#deployment)
 * [Created by](#created-by)
 * [Special Thanks](#special-thanks)
 * [Repository](#repository)
@@ -79,6 +80,8 @@ Type the following npm install commands:
 </blockquote>
 </details>
 
+
+
 ## Usage
 
 `👨🏽‍💻Open in Integrated Terminal`
@@ -87,6 +90,11 @@ To Run application while in the tech-Blog folder type
 ```
 npm start 
 ```
+
+
+## Deployment
+* [Let's Get Technical! - Tech Blog](https://young-taiga-22105.herokuapp.com/)
+
 
 ## Created by
 * [Javiann Marrero](https://github.com/javiistacks)
