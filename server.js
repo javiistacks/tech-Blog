@@ -21,9 +21,9 @@ const sess = {
         //session will expire in 10 minutes
         expires: 10 * 60 * 1000
 },
-resave: true,
+resave: false,
 saveUninitialized: true,
-rolling:true,
+// rolling:true,
 store: new SequelizeStore({
     db: sequelize
 }),
