@@ -30,7 +30,9 @@ Type the following npm install commands:
 1. npm i dotenv express mysql2 sequelize
 2. npm init -y
 ```
-on the command line while in the tech-Blog folder. 
+<details><summary> the command line while in the tech-Blog folder.</summary>
+
+<blockquote>
 
 * [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
   * npm is the package manager for the Node JavaScript platform. 
@@ -71,6 +73,8 @@ on the command line while in the tech-Blog folder.
 * [nodemon](https://www.npmjs.com/package/nodemon)
   * Sequelize is a promise-based Node.js ORM tool for MySQL.
  
+</blockquote>
+</details>
 
 ## Usage
 
