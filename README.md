@@ -27,10 +27,13 @@ Watch a demo of the application on [Youtube. Object-Relational Mapping (ORM).](h
 ## Installations
 Type the following npm install commands: 
 ```
-1. npm i dotenv express mysql2 sequelize
-2. npm init -y
+1. npm i dotenv express express-handlebars express-session mysql2 sequelize bcrypt connect-session-sequelize bulma nodemon jest
+2. npm i -D @creativebulma/bulma-divider
+3. npm init -y
+
+ On the command line while in the tech-Blog folder.
 ```
-<details><summary> the command line while in the tech-Blog folder.</summary>
+<details><summary> NPM PACKAGES</summary>
 
 <blockquote>
 
@@ -80,7 +83,7 @@ Type the following npm install commands:
 
 `👨🏽‍💻Open in Integrated Terminal`
 
-To Run application while in the developer folder type 
+To Run application while in the tech-Blog folder type 
 ```
 npm start 
 ```
