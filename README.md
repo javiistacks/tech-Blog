@@ -48,10 +48,10 @@ Type the following npm install commands:
   * Allows to dynamically render HTML Pages based on passing arguments to templates.
 
 * [express-handlebars](https://www.npmjs.com/package/express-handlebars)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * A Handlebars view engine for Express.
 
 * [express-session](https://www.npmjs.com/package/express-session)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * This is a Node.js module available through the npm registry.
   
 * [mysql2](https://www.npmjs.com/package/mysql2)
   * Enables the application to create a connection to the mysql database.
@@ -60,22 +60,22 @@ Type the following npm install commands:
   * Sequelize is a promise-based Node.js ORM tool for MySQL.
 
 * [bcrypt](https://www.npmjs.com/package/bcrypt)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * A library to help you hash passwords.
 
 * [connect-session-sequelize](https://www.npmjs.com/package/sequelize)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * Is a SQL session store using Sequelize.js.
 
 * [bulma](https://www.npmjs.com/package/bulma)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * Bulma is a modern CSS framework based on Flexbox.
 
 * [@creativebulma/bulma-divider](https://www.npmjs.com/package/@creativebulma/bulma-divider)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * A Bulma extension and brings the ability to easily display an horizontal or vertical divider with optional text.
 
 * [jest](https://www.npmjs.com/package/jest)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * Allows to run tests for application. 
 
 * [nodemon](https://www.npmjs.com/package/nodemon)
-  * Sequelize is a promise-based Node.js ORM tool for MySQL.
+  * Is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
  
 </blockquote>
 </details>
@@ -93,6 +93,8 @@ npm start
 
 
 ## Deployment
+Deployment was made possible with Heroku. 
+Check out my tech blog at the link below.
 * [Let's Get Technical! - Tech Blog](https://young-taiga-22105.herokuapp.com/)
 
 
