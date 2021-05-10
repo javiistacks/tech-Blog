@@ -19,7 +19,7 @@ const sess = {
     secret: 'Super secret secret',
     cookie: {
         //session will expire in 10 minutes
-        expires: 10 * 60 * 1000
+        // expires: 10 * 60 * 1000
 },
 resave: false,
 saveUninitialized: true,
